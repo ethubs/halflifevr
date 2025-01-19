@@ -11,7 +11,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31v6otahmatphusjg6miowx3l7uy&cover_image=false&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color_cover=true&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
 <!---
-halflifevr/halflifevr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ethubs/ethubs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
